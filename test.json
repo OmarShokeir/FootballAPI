@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Lionel Messi",
+        "team": "PSG",
+        "teamNumber": 30,
+        "nationalTeamNumber": 10,
+        "position": "Forward",
+        "nationality": "Argentinian"
+    },
+    {
+        "name": "Sergio Ramos",
+        "team": "PSG",
+        "teamNumber": 4,
+        "nationalTeamNumber": 4,
+        "position": "Defender",
+        "nationality": "Spanish"
+    },
+    {
+        "name": "Mohamed Salah",
+        "team": "Liverpool",
+        "teamNumber": 11,
+        "nationalTeamNumber": 11,
+        "position": "Forward",
+        "nationality": "Egyptian"
+    },
+    {
+        "name": "Sadio Mane",
+        "team": "Liverpool",
+        "teamNumber": 10,
+        "nationalTeamNumber": 10,
+        "position": "Forward",
+        "nationality": "Senegali"
+    }
+]
